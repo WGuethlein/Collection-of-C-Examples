@@ -15,6 +15,6 @@ This is a game created first in my Programming 1 course, then edited later in a 
 The concept of this game is that a user will play against the "computer" in a dice game. You will roll two die, their totals combined will be added to your total score. If the player rolls a single, 1, the turn score will be reset to zero and the turn will end. If the player roll snake-eyes ( Two 1's ) the players total score is reset and the turn ends. The goal is to be the first player to reach a score of 100.
 
 
-** ___Sort.cpp**
+** BubbleSort.cpp**
 
-These are a few random sorting algorithms we covered in a DSA course. Each with n^2 time complexity.
+This is an implementation of bubble sort on a linked list.
